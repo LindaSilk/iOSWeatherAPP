@@ -194,4 +194,6 @@
 ---
 
 
-我的CSDN：[林大夕可](https://blog.csdn.net/Sherlooock)
+如若项目运行报错`Command PhaseScriptExecution failed with a nonzero exit code`，可尝试从CSDN下载[项目压缩包](https://download.csdn.net/download/Sherlooock/12647041)
+
+
